@@ -1,0 +1,5 @@
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Release\ROIinvestmentcalculator.exe.config
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Release\ROIinvestmentcalculator.exe
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Release\ROIinvestmentcalculator.pdb
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\obj\Release\ROIinvestmentcalculator.exe
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\obj\Release\ROIinvestmentcalculator.pdb

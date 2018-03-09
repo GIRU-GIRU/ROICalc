@@ -1,0 +1,6 @@
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Debug\ROIinvestmentcalculator.exe.config
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Debug\ROIinvestmentcalculator.exe
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\bin\Debug\ROIinvestmentcalculator.pdb
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\obj\Debug\ROIinvestmentcalculator.csprojResolveAssemblyReference.cache
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\obj\Debug\ROIinvestmentcalculator.exe
+c:\users\danielyacoubian\documents\visual studio 2015\Projects\ROIinvestmentcalculator\ROIinvestmentcalculator\obj\Debug\ROIinvestmentcalculator.pdb
